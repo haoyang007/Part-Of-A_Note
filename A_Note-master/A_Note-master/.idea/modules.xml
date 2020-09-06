@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A_Note-master.iml" filepath="$PROJECT_DIR$/A_Note-master.iml" group="A_Note-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/A_Note-master-app.iml" filepath="$PROJECT_DIR$/app/A_Note-master-app.iml" group="A_Note-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialTest.iml" filepath="$PROJECT_DIR$/MaterialTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
